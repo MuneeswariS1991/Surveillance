@@ -25,7 +25,7 @@ A GUI model of a software prototype with latest features developed to aid survei
 
 <img src="https://github.com/Surveillance-NWB/Surveillance/blob/main/Screenshots/p3.png" alt="check box functionality" style="height: 150px; width:200px;"/>
 
-
+<img src="https://github.com/Surveillance-NWB/Surveillance/blob/main/Screenshots/p4.png" alt="check box functionality" style="height: 150px; width:200px;"/>
 
 ## Hardware and Software Requirements
 
